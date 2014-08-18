@@ -15,3 +15,4 @@ This is enough to fool TChunt.
 
 See the TChunt-Defeater below in action, step by step.
 
+![Screenshot1](https://raw.githubusercontent.com/NullArgument/TChunt-Defeater/master/demo.jpg?raw=true "Screenshot1")
